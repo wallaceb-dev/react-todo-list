@@ -90,6 +90,7 @@ h1 {
 }
 
 .todo-row {
+  transition: all ease 0.4s;
   display: flex;
   justify-content: space-between;
   align-items: center;
